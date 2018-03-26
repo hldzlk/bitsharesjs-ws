@@ -33,7 +33,7 @@
   "engines": {
     "node": ">= 6.0.0"
   },
-  "main": "cjs/index.js",
+  "main": "lib/index.js",
   "jsnext:main": "es/index.js",
   "dependencies": {
     "ReconnectingWebSocket": "git+https://github.com/bitshares/reconnecting-websocket",
